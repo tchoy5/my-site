@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Student at <a href='https://www.ubc.ca/'>University of British Columbia</a>. Vancouver, BC. Contacts: tylorchoy@gmail.com
+subtitle: Student at <a href='https://www.ubc.ca/'> University of British Columbia </a>. Vancouver, BC. Contacts: tylorchoy@gmail.com
 
 profile:
   align: right
